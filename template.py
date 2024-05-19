@@ -19,6 +19,14 @@ list_of_files = [
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
+    "setup.py",
+    "setup.cfg",
+    "pyproject.toml",
+    "tox.ini",
+    "experiment/experiments.ipynb",
+    
+    
+    
     
 
 
